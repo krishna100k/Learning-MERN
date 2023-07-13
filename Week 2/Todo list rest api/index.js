@@ -45,14 +45,22 @@
 import express from "express";
 import bodyParser from 'body-parser';
 import todoRoutes from './Routes/users.js'
+import path from "path"
+import cors from "cors"
 
 const app = express();
 const PORT = 5000;
 app.use(bodyParser.json());
+app.use(cors());
+
 app.use('/todos', todoRoutes)
 
 app.get('/', (req, res) => {
     res.send("Hello From Homepage")
 })
+
+// app.get("/"), (req, res)=> {
+//   res.sendFile(path.join(__dirname, "index.html"));
+// }
 
 app.listen(PORT, () => console.log(`Server is running on port: http://localhost:${PORT}`))
