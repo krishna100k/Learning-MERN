@@ -1,0 +1,29 @@
+[33mcommit 294ce145b379c5f8bb67d44be98e1f81357e5493[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Krishnaprasad Awala <krishnaprasadawala@gmail.com>
+Date:   Thu Jul 13 23:24:30 2023 +0530
+
+    Creating the frontend for the to-do list
+
+[33mcommit 2764ac3d960f2386c2c23bb0a9558a74cd321c31[m
+Author: Krishnaprasad Awala <krishnaprasadawala@gmail.com>
+Date:   Tue Jul 11 00:14:27 2023 +0530
+
+    storing all the todos to JSON file
+
+[33mcommit 24bac88239e0266c19f61d036905005decad5e17[m
+Author: Krishnaprasad Awala <krishnaprasadawala@gmail.com>
+Date:   Sun Jul 9 13:13:23 2023 +0530
+
+    Authentication rest api
+
+[33mcommit df75a264e4ee74e5b7cd84b495e093616dff8f5a[m
+Author: Krishnaprasad Awala <krishnaprasadawala@gmail.com>
+Date:   Sat Jul 8 12:50:22 2023 +0530
+
+    File Server rest api
+
+[33mcommit 92d80c11b5c0f5fd750803fd3b3e2bae5aaee65f[m
+Author: Krishnaprasad Awala <krishnaprasadawala@gmail.com>
+Date:   Fri Jul 7 18:32:42 2023 +0530
+
+    first commit
